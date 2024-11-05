@@ -6,7 +6,7 @@
 ### 4. Manishimwe Kwizera Jean Luc 26972 
 ### 5. Mutoni Samillah 26851
 ### 6. KIBONDO Impano Keza Cardine 26954
-
+### 7. Rukundo Fabrice 26472
 
 ## Table of Contents
 1. [Introduction](#introduction)
