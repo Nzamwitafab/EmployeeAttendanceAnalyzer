@@ -1,6 +1,7 @@
 # Employee Attendance Analysis System
 ## Group 5 Members:
 ### 1. Nzamwitakuze Fabrice 24855
+### 2. Ngomituje Samuel 26771
 
 
 
@@ -106,7 +107,7 @@ commit;
 create or replace procedure calculate_attendance_statistics (
    p_month number,
    p_year  number
-) as
+) as -- the two variables are considered as our parameters for our procedure
    cursor emp_cursor is
    select e.employee_id,
           e.first_name
