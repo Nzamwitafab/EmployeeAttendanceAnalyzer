@@ -44,21 +44,22 @@ create table attendance (
 
 ## Data Insertion
 ```sql
+
 -- Insert sample employees
 insert into employees (
    employee_id,
    first_name,
    last_name
 ) values ( 1,
-           'John',
-           'Doe' );
+           'Fabrice',
+           'Nzamwitakuze' );
 insert into employees (
    employee_id,
    first_name,
    last_name
 ) values ( 2,
-           'Jane',
-           'Smith' );
+           'Isaro',
+           'Muhirwa' );
 
 -- Insert sample attendance records
 insert into attendance (
@@ -69,7 +70,7 @@ insert into attendance (
 ) values ( 1,
            1,
            date '2024-10-01',
-           'Present' ); --at this point we are inserting data in attendance table 
+           'Present' );
 insert into attendance (
    attendance_id,
    employee_id,
@@ -187,5 +188,6 @@ end;
 
 ### Output
 
-![testing](https://github.com/user-attachments/assets/d80691e9-b3b2-4f09-9472-2eeff3ffbb66)
+
+![testingoutput](https://github.com/user-attachments/assets/af438b84-6485-44f4-aa3b-9eb137fe3e96)
 
