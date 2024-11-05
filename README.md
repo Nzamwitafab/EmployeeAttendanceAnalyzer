@@ -4,6 +4,7 @@
 ### 2. Ngomituje Samuel 26771
 ### 3. Isaro Muhirwa Ola 26878
 ### 4. Manishimwe Kwizera Jean Luc 26972 
+### 5. Mutoni Samillah 26851
 
 
 ## Table of Contents
@@ -171,6 +172,7 @@ commit;
 
 ## Testing
 ```sql
+-- Enable server output to display results
 SET SERVEROUTPUT ON;
 
 begin
