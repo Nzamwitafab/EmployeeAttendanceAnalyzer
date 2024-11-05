@@ -5,6 +5,7 @@
 ### 3. Isaro Muhirwa Ola 26878
 ### 4. Manishimwe Kwizera Jean Luc 26972 
 ### 5. Mutoni Samillah 26851
+### 6. KIBONDO Impano Keza Cardine
 
 
 ## Table of Contents
@@ -68,7 +69,7 @@ insert into attendance (
 ) values ( 1,
            1,
            date '2024-10-01',
-           'Present' );
+           'Present' ); --at this point we are inserting data in attendance table 
 insert into attendance (
    attendance_id,
    employee_id,
