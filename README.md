@@ -14,11 +14,13 @@ The Employee Attendance Analysis System is a database application designed to an
 ## Tables Creation
 
 ```sql
+--creating the table of employees 
 create table employees (
    employee_id number primary key,
    first_name  varchar2(50),
    last_name   varchar2(50)
 );
+--creating the table of attendance
 create table attendance (
    attendance_id   number primary key,
    employee_id     number
