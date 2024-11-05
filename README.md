@@ -18,7 +18,8 @@
 
 ## Introduction
 
-The Employee Attendance Analysis System is a database application designed to analyze employee attendance records over a specific period. This system leverages PL/SQL to calculate the total number of "Present" and "Absent" days for each employee within a specified month and year. The system is implemented in Oracle Database, utilizing two tables: `Employees` to store employee information and `Attendance` to store daily attendance records. A PL/SQL procedure, `Calculate_Attendance_Statistics`, is used to generate and display attendance statistics.
+The Employee Attendance Analysis System is a database application designed to analyze employee attendance records over a specific period. This system leverages PL/SQL to calculate the total number of "Present" and "Absent" days for each employee within a specified month and year. The sstem is implemented in Oracle Database, utilizing two tables: `Employees` to store employee information and `Attendance` to store daily attendance records. A PL/SQL procedure, `Calculate_Attendance_Statistics`, is used to generate and display attendance statistics.
+
 
 ## Tables Creation
 
